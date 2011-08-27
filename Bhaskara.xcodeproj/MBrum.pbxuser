@@ -1,0 +1,166 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Bhaskara */ = {
+		activeExec = 0;
+		executables = (
+			A21334EA1023F217009F34FF /* Bhaskara */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* BhaskaraViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {604, 489}}";
+			sepNavSelRange = "{386, 29}";
+			sepNavVisRange = "{0, 691}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* BhaskaraViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {604, 504}}";
+			sepNavSelRange = "{496, 0}";
+			sepNavVisRange = "{0, 901}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A21334EA1023F217009F34FF /* Bhaskara */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Bhaskara */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Bhaskara */,
+		);
+		codeSenseManager = A21334FD1023F21B009F34FF /* Code sense */;
+		executables = (
+			A21334EA1023F217009F34FF /* Bhaskara */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					426,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 271309289;
+			PBXWorkspaceStateSaveDate = 271309289;
+		};
+		perUserProjectItems = {
+			A21335031023F425009F34FF /* PBXTextBookmark */ = A21335031023F425009F34FF /* PBXTextBookmark */;
+			A21A387D102A631100B89187 /* PBXTextBookmark */ = A21A387D102A631100B89187 /* PBXTextBookmark */;
+			A21A3881102A631100B89187 /* PBXTextBookmark */ = A21A3881102A631100B89187 /* PBXTextBookmark */;
+			A244345F10252DFC00D17138 /* PBXBookmark */ = A244345F10252DFC00D17138 /* PBXBookmark */;
+			A244346210252DFC00D17138 /* PBXBookmark */ = A244346210252DFC00D17138 /* PBXBookmark */;
+			A28A2770102406D0003502A9 /* PBXTextBookmark */ = A28A2770102406D0003502A9 /* PBXTextBookmark */;
+			A2C469C9102BDEB700CE17C9 /* PBXTextBookmark */ = A2C469C9102BDEB700CE17C9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = A21334FC1023F21B009F34FF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	A21334EA1023F217009F34FF /* Bhaskara */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Bhaskara;
+		sourceDirectories = (
+		);
+	};
+	A21334FC1023F21B009F34FF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	A21334FD1023F21B009F34FF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A21335031023F425009F34FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* BhaskaraViewController.h */;
+		name = "BhaskaraViewController.h: 14";
+		rLen = 0;
+		rLoc = 326;
+		rType = 0;
+		vrLen = 602;
+		vrLoc = 89;
+	};
+	A21A387D102A631100B89187 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* BhaskaraViewController.h */;
+		name = "BhaskaraViewController.h: 17";
+		rLen = 29;
+		rLoc = 386;
+		rType = 0;
+		vrLen = 691;
+		vrLoc = 0;
+	};
+	A21A3881102A631100B89187 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BhaskaraViewController.m */;
+		name = "BhaskaraViewController.m: 18";
+		rLen = 0;
+		rLoc = 496;
+		rType = 0;
+		vrLen = 898;
+		vrLoc = 3;
+	};
+	A244345F10252DFC00D17138 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A28A278A10240B33003502A9 /* Fundao.png */;
+	};
+	A244346210252DFC00D17138 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A28A278A10240B33003502A9 /* Fundao.png */;
+	};
+	A28A2770102406D0003502A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BhaskaraViewController.m */;
+		name = "BhaskaraViewController.m: 30";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 898;
+		vrLoc = 3;
+	};
+	A2C469C9102BDEB700CE17C9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BhaskaraViewController.m */;
+		name = "BhaskaraViewController.m: 18";
+		rLen = 0;
+		rLoc = 496;
+		rType = 0;
+		vrLen = 901;
+		vrLoc = 0;
+	};
+}
